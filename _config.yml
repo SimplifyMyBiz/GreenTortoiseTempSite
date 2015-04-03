@@ -1,0 +1,22 @@
+# Site settings
+title: Green Tortoise Hostel 
+email: info@greentortoise.net
+url: http://greentortoise.net
+description: "The Green Tortoise Hostel"
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary-dark: '#000000'
+  links: '#219ab3'
+
+# Footer settings
+footer: www.greentortoise.net - 206.340.1222 - info@greentortoise.net
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: facebook
+    url:
+
+# Build settings
+markdown: kramdown
+permalink: pretty
